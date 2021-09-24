@@ -24,7 +24,7 @@ Portfolio](#)** - 📫 How to reach me
 - 👯 I’m looking to collaborate on - **Open Source Contributions.**
 - 👨‍💻 All of my projects are available at **[My Portfolio](#)**
 - 📫 How to reach me - **dipenrikame25@gmail.com** 
-- ⚡ Fun fact **I crack jokes thinking i'm funny😅😂**
+- ⚡ Fun fact - **I crack jokes thinking i'm funny😅😂**
  ## 🚀 Languages and Tools:
 
 <p align="left">
