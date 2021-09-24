@@ -1,4 +1,4 @@
-<a href="#"
+<!-- <a href="#" -->
   ><img
     width="100%"
     height="auto"
@@ -16,13 +16,12 @@
 <h3 align="center">I'm Future Full Stack Developer based in India 🔥</h3>
 
 ## 🙋‍♂️ About Me - 🔭 I’m currently pursuing Bachelors in Computer Science **
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning - **Full Stack Development.**
 <!-- **Data Structures and Algorithms.** - 👯 I’m looking to collaborate on
 **OpenSource Projects** - 👨‍💻 All of my projects are available at **[My
 Portfolio](#)** - 📫 How to reach me
 **dipenrikame25@gmail.com** - ⚡ Fun fact **I crack jokes thinking i'm funny😅😂** -->
-
- - 👯 I’m looking to collaborate on - **Data Structures and Algorithms.**
+- 👯 I’m looking to collaborate on - **Open Source Contributions.**
 - 👨‍💻 All of my projects are available at **[My Portfolio](#)**
 - 📫 How to reach me - **dipenrikame25@gmail.com** 
 - ⚡ Fun fact **I crack jokes thinking i'm funny😅😂**
