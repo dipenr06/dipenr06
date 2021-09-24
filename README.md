@@ -16,7 +16,7 @@
 <h3 align="center">I'm Future Full Stack Developer based in India 🔥</h3>
 
 ## 🙋‍♂️ About Me - 🔭 I’m currently pursuing Bachelors in Computer Science **
-- 🌱 I’m currently learning - **Full Stack Development.**
+- 🌱 I’m currently learning - **Full Stack Development, Kubernetes, Cloud.**
 <!-- **Data Structures and Algorithms.** - 👯 I’m looking to collaborate on
 **OpenSource Projects** - 👨‍💻 All of my projects are available at **[My
 Portfolio](#)** - 📫 How to reach me
