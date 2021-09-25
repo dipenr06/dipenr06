@@ -124,12 +124,12 @@ Portfolio](#)** - 📫 How to reach me
 <br />
 <a href="https://github.com/dipenr06/github-readme-stats"
   ><img
-    alt="Subham Raoniar's Github Stats"
+    alt="Dipen Rikame's Github Stats"
     src="https://github-readme-stats.vercel.app/api?username=dipenr06&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"
 /></a>
 <a href="https://github.com/dipenr06/github-readme-stats"
   ><img
-    alt="Subham Raoniar's Top Languages"
+    alt="Dipen Rikame's Top Languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipenr06&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
 /></a>
 <br />
