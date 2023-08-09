@@ -15,9 +15,9 @@
 </h1>
 <h3 align="center">I'm a Data Analyst based in India 🔥</h3>
 
-## 🙋‍♂️ About Me - 🔭 I’m currently pursuing Bachelors in Computer Science **
-- 🌱 I’m currently learning - **Full Stack Development, Kubernetes, Cloud.**
-<!-- **Data Structures and Algorithms.** - 👯 I’m looking to collaborate on
+## 🙋‍♂️ About Me - 🔭 I’m a Graduate of Bachelors in Computer Science **
+- 🌱 I’m currently learning - **Data Science, Machine Learning, Cloud.**
+<!-- **Data Structure and Algorithms.** - 👯 I’m looking to collaborate on
 **OpenSource Projects** - 👨‍💻 All of my projects are available at **[My
 Portfolio](#)** - 📫 How to reach me
 **dipenrikame25@gmail.com** - ⚡ Fun fact **I crack jokes thinking i'm funny😅😂** -->
