@@ -13,7 +13,7 @@
     width="30px"
   />, I'm Dipen
 </h1>
-<h3 align="center">I'm Future Full Stack Developer based in India 🔥</h3>
+<h3 align="center">I'm a Data Analyst based in India 🔥</h3>
 
 ## 🙋‍♂️ About Me - 🔭 I’m currently pursuing Bachelors in Computer Science **
 - 🌱 I’m currently learning - **Full Stack Development, Kubernetes, Cloud.**
